@@ -1,0 +1,128 @@
+{
+    "RCSB Protein Data Bank": {
+        "PDB_00001": {
+            "sequence": "CGCGAAUUAGCGCGCGAAUUAGCG",
+            "dot-parentheses": "(((((((((((())))))))))))"
+        },
+        "PDB_00002" : {
+            "sequence": "GGCGUAAGGAUUACCUAUGCC",
+            "dot-parentheses": "(((((.(((....))))))))"
+        },
+        "PDB_00003" : {
+            "sequence": "GGCGUCACACCUUCGGGUGAAGUCGCC",
+            "dot-parentheses": "((((((((((((..))))).)))))))"
+        },
+        "PDB_00004" : {
+            "sequence": "GGCCGAUGGUAGUGUGGGGUCUCCCCAUGCGAGAGUAGGCC",
+            "dot-parentheses": "(((((((((((((((((((...)))))))))))))))))))"
+        },
+        "PDB_00005" : {
+            "sequence": "GGGAGCUCAACUCUCCCCCCCUUUUCCGAGGGUCAUCGGAACCA",
+            "dot-parentheses": "(((((.......)))))[[[...((((((]]]...))))))..."
+        },
+        "PDB_00006" : {
+            "sequence": "GGGUGACUCCAGAGGUCGAGAGACCGGAGAUAUCACCC",
+            "dot-parentheses": "((((((((((...((((....))))))))...))))))"
+        },
+        "PDB_00007" : {
+            "sequence": "GGUGUGAACACC",
+            "dot-parentheses": "((((....))))"
+        },
+        "PDB_00008" : {
+            "sequence": "GACAGGGGAAACUUUGUC",
+            "dot-parentheses": "((((((((..))))))))"
+        },
+        "PDB_00009" : {
+            "sequence": "GGUAAUAAGCUCGAGUACC",
+            "dot-parentheses": "(((.....(((()))))))"
+        },
+        "PDB_00010" : {
+            "sequence": "GGCCAGAUUGAGCCUGGGAGCUCUCUGGCC",
+            "dot-parentheses": "(((((((..((((......)))))))))))"
+        }
+    },
+    "RNase P Database": {
+        "ASE_00001": {
+            "sequence": "gaggaaagucccgccUCCAGAUCAAGGGAAGUCCCGCGAGGGACAAGGGUAGUACCCUUGGCAACUGCACAGAAAACUUACCCCUAAAUAUUCAAUGAGGAUUUGAUUCGACUCUUACCUUGGCGACAAGGUAAGAUAGAUGAAGAGAAUAUUUAGGGGUUGAAACGCAGUCCUUCCCGGAGCAAGUAGGGGGGUCAAUGAGAAUGAUCUGAAGACCUCCCUUGACGCAUAGUCGAAUCCCCCAAAUacagaagcgggcuua",
+            "dot-parentheses": ".....(((.(((((((((.[[[[[.((((((((((....)))))(((((.....)))))((...((((............(((((((((((................((...((((((((((....))))))))))..))........))))))))))).......)))).)))))))))))...((.((((((((..((((..]]]]]))))))))))))...))...........................))))))))."
+        },
+        "ASE_00002": {
+            "sequence": "gaggaaagucccgccUCCUGGCCUAAAGGAGUCUCUAUAGAGACAAGGGCAACACCCUUGGCAACUAUACAGAAACAAGUACCUUGAAAGCUACAUGUGAAAAUGAUUGUGCCCCUUCCUCUGGUAACGGAGGAAGAAACAUGAGAGUAGCUUUCAAGGAUGAAAAGAUAGACCUCCUAGGAGCAAGUAGAGGGAAAGAUGAGACUAGGCCCGAUUUCCCUCUAGGACGCAUAGCCAAAUCCCCCAACCAUUacaaaagcgggcuua",
+            "dot-parentheses": ".....(((.(((((((((.[[[[[.((((((((((....)))))(((((.....)))))((...((((.............(((((((((((...............((.....(((((((((....)))))))))...)).......)))))))))))........)))).)))))))))))...((.((((((((...(((...]]]]])))))))))))....))..............................))))))))."
+        },
+        "ASE_00003" : {
+            "sequence": "gaggaaaguccgggCUCCAUAGGGCAGAGUGCCAGGUAACGCCUGGGAGGCGUGAGCCUACGGAAAGUGCCACAGAAAACAACCGCCUAAGUGCGCAAGCGCCGGUAAGGGUGAAAAGGUGCGGUAAGAGCGCACCGCACGGCUGGCAACAGUCCGUGGCUAGGUAAACCCCACUCGGAGCAAGACCAAAUAGGGAUCCGUUGGCGUGGCCCGCGCUGGAUCCGGGUAGGUUGCUAGAGGCGGCCAGCGAUGGUCGUCGUAGAGGAAUGACUGUCCUCGACAGAAcccggcuua",
+            "dot-parentheses": ".....(((.(((((((((...[[[[.((((((((((.....)))))(((((....)))).)((...(((((...........(((((...((((....)))).)))..)).......((((((.......))))))(((((((((....))).))))).)..)))..)))))))))))))...((((......((((((...(((((.]]]]))))))))))).....))))......((((((((....))))))))...........................))))))))."
+        },
+        "ASE_00004" : {
+            "sequence": "CACAGAGCACGGUGGUGGCCAACAGCCACCCACGGCGACGUGCGGGACAGUGCCACAGAGAACAGACCGCCAGCGGCCCCGCGGCCUUCGGGCCACGGGGUGCGGGCAAGGGUGAAACGGUGAGGUAAGAGCUCACCAGCGACGUCGGCGACGGCGUCGGCUCGGUAAACCCCACCGGGAGCAAGACCAAGAGGGCGCUCCGGCGCCUGCGCUGACGGGCUGCUCGUCCGACGUCAGCGGGUAGGUCGCUCGAGGCACGCAGCAAUGCGUGACCCAGAUGGAUGGUCGCCCCCCAGCCCUCGGGCCGGGG",
+            "dot-parentheses": "(...[[[[.((((((((((.....)))))(((((....)))).)((...(((((............(((((..(((((((((((((....))))))))))).)))))..)).......((((((.......))))))((((((((((....)))))))).)).)))..))))))))))......((((....((((((....))))))..((((((((((.]]]])))))...))))).....))))......((((((((....)))))))).................((((((((....))))))))"
+        },
+        "ASE_00005" : {
+            "sequence": "AAAGCAGGCCAGGCAACCGCUGCCUGCACCGCAAGGUGCAGGGGGAGGAAAGUCCGGACUCCACAGGGCAGGGUGUUGGCUAACAGCCAUCCACGGCAACGUGCGGAAUAGGGCCACAGAGACGAGUCUUGCCGCCGGGUUCGCCCGGCGGGAAGGGUGAAACGCGGUAACCUCCACCUGGAGCAAUCCCAAAUAGGCAGGCGAUGAAGCGGCCCGCUGAGUCUGCGGGUAGGGAGCUGGAGCCGGCUGGUAACAGCCGGCCUAGAGGAAUGGUUGUCACGCACCGUUUGCCGCAAGGCGGGCGGGGCGCACAGAAUCCGGCUUAUCGGCCUGCUUUGCUU",
+            "dot-parentheses": "((((((((((({{{{{{{.(((((((((((....)))))))))))....(((.(((((((((...[[[[.((((((((((.....)))))(((((....)))).)((...(((((...........(((((((((((((....))))))))))))).........)))..)))))))))))))...((((......((((((...(((((.]]]]))))))))))).....))))......((((((((....))))))))..........}}}}}}}((((((((((((((....))))))))))))))......)))))))).).))))))))))...."
+        },
+        "ASE_00006" : {
+            "sequence": "CACAGAGCAACGGUGGUGGCUAACGGCCACCCACGGCGACGUGCGGGACAGUGCCACAGAAAUCAGACCGCCAGCGGCCGCCGCUCCUCGGAGCAGCGGUGCGGGUAAGGGUGAAACGGUGAGGUAAGAGCUCACCAGCGCUCCGGGUGACCGGGGCGGCUAGGUAAACCCCACCGGGAGCAAGACCAAGAGAGUCGCGUGGCGCUUCGGCGGUGCACGGCUUGCGCUGACGGGCUGCUCGUCCGAUGUCAGCGGGUAGGUUGCACGAGGCGUCCAGCAAUGGGCGUCCCAGAUGGAUGGUCGCCCACG",
+            "dot-parentheses": "(...[[[[..((((((((((.....)))))(((((....)))).)((...(((((............(((((..((((((((((((....)))))))))).)))))..)).......((((((.......))))))((((((((((....)))))))).)).)))..))))))))))......((((....((((..((((.(((....)))...))))))))..((((((((((.]]]])))))...))))).....))))......((((((((....))))))))....................."
+        },
+        "ASE_00007" : {
+            "sequence": "GGAGUGGGCCAGACGACCGCCGCGGAGCAAUCCGGGGAGGAAAGUCCGGGCUCCACAGGGCAAGGCGCCGGCUAACGGCCGGGAGGCGUGAGCCUACGGAAAGUGCCACAGAAAAUAUACCGCCAAAGCGCGUAAGCGCCGGUAAGGGUGAAAAGGUGCGGUAAGAGCGCACCGCAUUUCCGGCGACGGGAAUGGCAGGGAAAACCCCGCCUGGAGCAAGACCAAAUAGGCGUGCGAUACCGUGGCCCGCGGUGCAUGCGGGUAGGUUGCUGGAGCCUGCGCGUAAGUUCAGGCCUAGAGGAAUGGUCGUCCACGACAGAACCCGGCUUAUCGGCCCACUCCAAUU",
+            "dot-parentheses": "((((((((((({{{{{{{.(((((((....)))))))....(((.(((((((((...[[[[.((((((((((.....)))))(((((....)))).)((...(((((............(((((...((((....))).))))..)).......((((((.......))))))(((((((((....)))))))).)..)))..)))))))))))))...((((......((((((...(((((.]]]]))))))))))).....))))......((((((((....))))))))..........}}}}}}}..........)))))))).).))))))))))...."
+        },
+        "ASE_00008" : {
+            "sequence": "GGAGUGGGCCAGGCGACCGCCGCGGAGCAAUCCGGGGAGGAAAGUCCGGGCUCCAUAGGGCAAGGCGCCGGUUAACGGCCGGGGGGCGUGAGCCUACGGAAAGUGCCACAGAAAAUAUACCGCCAAGCGCGUAAGCGCGGUAAGGGUGAAAAGGUGCGGUAAGAGCGCACCGCAUUUCCGGUAACGGAAAUGGCAGGGAAAACCCCGCCUGGAGCAAGACCAAAUAGGCGUGCGAUACCGUGGCCCGCGGUGCACGCGGGUAGGUUGCUGGAGCCUGUGCGUAAGUGCAGGCCUAGAGGAAUGGUCGUCCACGACAGAACCCGGCUUAUCGGCCCACUCCAAUU",
+            "dot-parentheses": "((((((((((({{{{{{{.(((((((....)))))))....(((.(((((((((...[[[[.((((((((((.....)))))(((((....)))).)((...(((((............(((((..((((....)))))))..)).......((((((.......))))))(((((((((....)))))))).)..)))..)))))))))))))...((((......((((((...(((((.]]]]))))))))))).....))))......((((((((....))))))))..........}}}}}}}..........)))))))).).))))))))))...."
+        },
+        "ASE_00009" : {
+            "sequence": "CGGCGGUGGGCGGCUGACCGAAAGGAGGAAAGUCCCCCCACCCGCUGUGGCGGAAGGCCCCUGAGAAGGGGCGGAGGAGGAACAGAAACGAGACCGGUGCGGGGAAAUGCGAUGAUUCCGCAAGGAUGAGGUCACCCGCUCCGGAUGAAACGGCCUCCUCCCCGCCGGGUGCAACGCGUAAGCGGCUCAGUCUAAUGCCGCCGGAACAGAAGGGGGCUUACUACCGCCA",
+            "dot-parentheses": "(((((((([[[[[[...((....))....(((.((((((((((.....(((((...((((((....))))))(((((((((............((((((((((((...........(((....))).....)).))))))))))........)))))))))))))))))))...(((....)))............]]]]]].........))))))))..))))))))"
+        },
+        "ASE_00010" : {
+            "sequence": "gaggaaaguccgggcUAGCACACACCUUAUGGGUGUGUAGUGUUUGUGCUAAGGGAAAUCAUAACCUUAGGUAUGUUGUAUAAACAUAACGGCAAACUAGUUAUAGCUAAGGUGUUUCACUACGUUAUAACUUAAAUUAAAGUGCCACAGAGACGAAUCUAUUUAGAAAUAAAUAGAGUGAAACGCGGUAAACCCCUCAAGCUAGCAACCCAAAUUAGGUAGGGGCACAUGAUGUGUAGCAAUACAACAUCAUGCAAGAUUUGAAUCUUGAGAUUAAUAGUCACAAAAGAAGAAAUUCUUUacagaacgcggcuua",
+            "dot-parentheses": ".....(((.((((((((((((((((.......)))))).....(((((((((((..........))))))(((((((.....)))))).)((......((((........((((...)))).......)))).........(((((...........((((((((....)))))))).........)))..))))))))))))))...(((..........)))...(((((((.............)))))))((((((....))))))...............((((((....))))))......))))))))."
+        }
+    },
+    "Rfam Database": {
+        "RFA_00388": {
+            "sequence": "CAAAAGUCUGGGCUAAGCCCACUGAUGAGCCGCUGAAAUGCGGCGAAACUUUUG",
+            "dot-parentheses": ".((((((.(((((...))))).......((((........))))...))))))."
+        },
+        "RFA_00389" : {
+            "sequence": "GAAAGGUCUGUGCUUAGCACACUGACGAGUUCCUGAAAUGGAACGAAACCUUUU",
+            "dot-parentheses": ".((((((.(((((...))))).......((((........))))...))))))."
+        },
+        "RFA_00390" : {
+            "sequence": "GAUAAGUCUGUGCUAAGCACACUGAUGAGUCUCUGAAAUGAGACGAAACUUAUC",
+            "dot-parentheses": ".((((((.(((((...))))).......((((........))))...))))))."
+        },
+        "RFA_00391" : {
+            "sequence": "CAUAAGUCUAGGCUUAGCCCACUGAUGAGCCGUUGAGAUACGGCGAAACUUAUG",
+            "dot-parentheses": ".((((((.(((((...))))).......((((........))))...))))))."
+        },
+        "RFA_00392" : {
+            "sequence": "GAUAAGUCUGUGCUUAGCACACUGAUGAGUCUCUGAAAUGAGACGAAACUUAUC",
+            "dot-parentheses": ".((((((.(((((...))))).......((((........))))...))))))."
+        },
+        "RFA_00393" : {
+            "sequence": "CAUAAGUCUGGGCUUAGCCCACUGAUGAGGCGUUGAGAUACGGCGAAACUUAUG",
+            "dot-parentheses": ".((((((.(((((...))))).......((((........))))...))))))."
+        },
+        "RFA_00394" : {
+            "sequence": "CAUAAGUCUGGGCUUAGCCCACUGAUGAGCCGUUGAGAUACGGCGGAACUUAUG",
+            "dot-parentheses": ".((((((.(((((...))))).......((((........))))...))))))."
+        },
+        "RFA_00395" : {
+            "sequence": "CAUAAGUCUGGGCUAAGCCCACUGAUGAGCCGUUGAGAUACGGCGAAACUUUUG",
+            "dot-parentheses": ".((((((.(((((...))))).......((((........))))...))))))."
+        },
+        "RFA_00396" : {
+            "sequence": "UAAGAGUCUGUGCUAAGCACACUGAUGAAUCUCUGAAAUGAGACGAAACUCUUG",
+            "dot-parentheses": ".((((((.(((((...))))).......((((........))))...))))))."
+        },
+        "RFA_00397" : {
+            "sequence": "UAAGAGUCUGUGGUAAGCACACUGAUGAGUCUCUGAAAUGAGACGAAACUCUUG",
+            "dot-parentheses": ".((((((.(((((...))))).......((((........))))...))))))."
+        }
+    }
+}
